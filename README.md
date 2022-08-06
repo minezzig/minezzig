@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/minezzig/minezzig/blob/main/header.png" alt="page header: gregory minezzi - developer, educator, traveler">
 
 <!--
 **minezzig/minezzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
